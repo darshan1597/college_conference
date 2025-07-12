@@ -116,39 +116,42 @@
                             ["Dr. K. P. Lakshmi", "Prof. & Head, ECE, BMSCE", "committee/committee16.png"]
                         ],
                         "Conveners" => [
-                            ["Dr Surendra H. H", "Assoc. Prof., ECE, BMSCE", "committee/committee17.png"],
-                            ["Dr. Santosh R. Desai", "Professor, ECE, BMSCE", "committee/committee18.png"]
+                            ["Dr. Santosh R. Desai", "Professor, ECE, BMSCE", "committee/committee18.png"],
+                            ["Dr Surendra H. H", "Assoc. Prof., ECE, BMSCE", "committee/committee17.png"]
                         ],
                         "Technical Program Committee" => [
                             ["Dr. Karthikeya G. S", "Asst. Prof., ECE, BMSCE", "committee/committee1.png"],
                             ["Dr. Feroz Morab", "Asst. Prof., ECE, BMSCE", "committee/committee2.png"]
                         ],
                         "Publication and Marketing Committee" => [
-                            ["Prof. Shaila V. Hegde", "Assoc. Prof., ECE, BMSCE", "committee/committee3.png"],
                             ["Dr. Lalitha S", "Assoc. Prof., ECE, BMSCE", "committee/committee4.png"],
                             ["Dr. Madhusudhan K. N", "Assoc. Prof., ECE, BMSCE", "committee/committee5.png"],
-                            ["Dr. Jeeru Dinesh Reddy", "Asst. Prof., ECE , BMSCE", "committee/committee6.png"]
+                            ["Mrs.Priyadarshini Jainapur", "Asst. Prof., ECE, BMSCE", "committee/committee23.png"],
                         ],
                         "Pre Conference Workshop Committee" => [
-                            ["Dr. Kiran Bailey", "Asst. Prof., ECE, BMSCE", "committee/committee7.png"],
-                            ["Dr. Ambika K", "Asst. Prof., ECE, BMSCE", "committee/committee8.png"]
+                            ["Dr. M. S. Suma", "Professor, ECE, BMSCE", "committee/committee7.png"],
+                            ["Mrs. Pooja A. P.", "Asst. Prof., ECE, BMSCE", "committee/committee14.png"]
                         ],
-                        "Registration and Finance Committee" => [
+                        "Finance Committee" => [
                             ["Prof. Radha R. C", "Asst. Prof., ECE, BMSCE", "committee/committee9.png"],
                             ["Prof Eesha D", "Asst. Prof., ECE, BMSCE", "committee/committee10.png"],
                             ["Dr. Shivkumar M", "Asst. Prof., ECE, BMSCE", "committee/committee11.png"]
                         ],
                         "Registration Committee" => [
-                            ["Prof Geeta", "Asst. Prof., ECE, BMSCE", "committee/committee12.png"],
                             ["Prof Sowmya Sunkara", "Asst. Prof., ECE, BMSCE", "committee/committee13.png"],
-                            ["Prof Pooja A. P", "Asst. Prof., ECE, BMSCE", "committee/committee14.png"]
+                            ["Prof Pooja A. P", "Asst. Prof., ECE, BMSCE", "committee/committee14.png"],
+                            ["Dr. Shivkumar M.", "Asst. Prof., ECE, BMSCE", "committee/committee11.png"],
+                            ["Mrs. Geeta", "Asst. Prof., ECE, BMSCE", "committee/committee12.png"]
+                        ],
+                        "Hospitality /Catering Coordinator" => [
+                            ["Prof. Harish V. Mekali", "Asst. Prof., ECE, BMSCE", "committee/committee21.png"],
+                            ["Mrs. K. Poornima Kamath", "Asst. Prof., ECE, BMSCE", "committee/committee8.png"]
                         ],
                         "Website Cordinator" => [
-                            ["Prof . Suprith Kumar K. S.", "Asst. Prof., ECE, BMSCE", "committee/committee15.png"]
-                        ],
-                        "Website Designed By" => [
-                            ["Darshan P(1BM21EC032)", "Dept of ECE, BMSCE", "committee/committee19.png"],
-                            ["Rekha G(1BM21CV080)", "Dept of CIVIL, BMSCE", "committee/committee20.jpg"]
+                            ["Prof . Suprith Kumar K. S.", "Asst. Prof., ECE, BMSCE", "committee/committee15.png"],
+                            ["Mr. Syed Akram", "Asst. Prof., CSE, BMSCE", "committee/committee22.png"],
+                            ["Mr. Darshan P(1BM21EC032)", "Dept of ECE, BMSCE", "committee/committee19.png"],
+                            ["Miss. Rekha G(1BM21CV080)", "Dept of CIVIL, BMSCE", "committee/committee20.jpg"]
                         ]
                     ];
 
