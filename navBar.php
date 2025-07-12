@@ -7,7 +7,7 @@
             <a class="nav-link" href="about.php">About</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="Schedule.php">Schedule</a>
+            <a class="nav-link" href="schedule.php">Schedule</a>
         </li>
         <li class="nav-item">
             <a class="nav-link" href="impDates.php">Important Dates</a>
