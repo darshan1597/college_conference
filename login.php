@@ -166,7 +166,15 @@
     <!-- Header -->
     <div class="top-header bg-light">
         <div class="logo-left">
-            <a href="index.php"><img src="./images/logo.png" alt="Conference Logo" class="logo-top"></a>
+            <!-- College Logo -->
+            <a href="index.php">
+                <img src="./images/logo.png" alt="Conference Logo" class="logo-top">
+            </a>
+
+            <!-- NEWS Logo -->
+            <a href="index.php">
+                <img src="./images/news-nobg.png" alt="NEWS Logo" class="logo-top" style="margin:0; max-width:150px">
+            </a>
         </div>
 
         <div class="upload-right d-flex align-items-center" style="display: flex; flex-direction: column;">

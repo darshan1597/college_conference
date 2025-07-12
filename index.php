@@ -62,10 +62,10 @@
                         <div class="col-md-4">
                             <div class="card h-100 text-center p-4 border">
                                 <h5 class="fw-bold">ISOI members(Student-UG/PG/Research Scholars)</h5>
-                                <h2 class="text-primary my-3">₹ 1</h2>
+                                <h2 class="text-primary my-3">₹ 700</h2>
                                 <?php
                                 echo'
-                                    <a href="register.php?amount='.convertData(string: 1).'&mode=offline&cat='.convertData('ISOI members(Student-UG/PG/Research Scholars)') .'" class="btn btn-outline-primary">Register Now</a>
+                                    <a href="register.php?amount='.convertData(string: 700).'&mode=offline&cat='.convertData('ISOI members(Student-UG/PG/Research Scholars)') .'" class="btn btn-outline-primary">Register Now</a>
                                     ';
                                 ?>
                             </div>

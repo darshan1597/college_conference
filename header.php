@@ -21,8 +21,14 @@
     <div class="top-header bg-light px-3 py-2 d-flex justify-content-between align-items-center">
         <!-- Left: Logo -->
         <div class="logo-left d-flex align-items-center">
+            <!-- College Logo -->
             <a href="index.php">
                 <img src="./images/logo.png" alt="Conference Logo" class="logo-top">
+            </a>
+
+            <!-- NEWS Logo -->
+            <a href="index.php">
+                <img src="./images/news-nobg.png" alt="NEWS Logo" class="logo-top" style="margin:0; max-width:150px">
             </a>
         </div>
 
