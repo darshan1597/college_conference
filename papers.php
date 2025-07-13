@@ -1,6 +1,6 @@
 <?php
     session_start();
-    include("database.php");
+    include("dataBase.php");
     include("functions.php");
 
     // Protect route if not logged in
